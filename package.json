@@ -1,0 +1,24 @@
+{
+  "name": "allgit",
+  "version": "0.0.1",
+  "description": "Execute git commands against multiple repos.",
+  "main": "allgit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/civilframe/node-allgit.git"
+  },
+  "keywords": [
+    "git"
+  ],
+  "author": "Alex Solo <alex@alexsolo.io> (http://alexsolo.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/civilframe/node-allgit/issues"
+  },
+  "homepage": "https://github.com/civilframe/node-allgit",
+  "dependencies": {},
+  "bin": "./allgit.js"
+}
