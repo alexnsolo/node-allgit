@@ -1,6 +1,6 @@
 # allgit
 
-Execute git commands against multiple repos.
+Execute git commands against all repos in the current directory.
 
 ```
 allgit status

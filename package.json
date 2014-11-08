@@ -1,7 +1,7 @@
 {
   "name": "allgit",
   "version": "0.0.1",
-  "description": "Execute git commands against multiple repos.",
+  "description": "Execute git commands against all repos in the current directory.",
   "main": "allgit.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
